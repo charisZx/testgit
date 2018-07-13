@@ -4,4 +4,7 @@
 When you saw this.... This thing just a test. <br>Cause im new on github :)
 <hr>
 
-Fitur is Feature
+Test is over :)
+I think i like github now
+
+<hr>
